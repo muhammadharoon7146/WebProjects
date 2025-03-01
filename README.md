@@ -31,20 +31,41 @@ This project utilizes HTML, CSS, JavaScript, and JSON to create a dynamic and re
 
 **Technologies Used:**
 
+
 **HTML5** → For structuring the web pages.
+
+
 **CSS3** → For styling and responsive design.
+
+
 **JavaScript** → For interactivity and dynamic content.
+
+
 **JSON** → For managing and storing structured data.
+
 
 **Usage:**
 
+
 1.Simply open the index.html file in a browser to explore the project.
+
+
 2.Modify the JSON file to update dynamic data.
+
+
 3.Customize styles in styles.css as per requirements.
 
-Future Enhancements
+
+
+Future Enhancements:
+
+
 🔹 Implement backend integration for real-time data.
+
+
 🔹 Add form validation and user authentication.
+
+
 🔹 Improve UI/UX with advanced animations.
 
 
