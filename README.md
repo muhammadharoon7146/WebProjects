@@ -44,6 +44,7 @@ This project utilizes HTML, CSS, JavaScript, and JSON to create a dynamic and re
 **JSON** → For managing and storing structured data.
 
 
+
 **Usage:**
 
 
@@ -57,7 +58,7 @@ This project utilizes HTML, CSS, JavaScript, and JSON to create a dynamic and re
 
 
 
-Future Enhancements:
+**Future Enhancements:**
 
 
 🔹 Implement backend integration for real-time data.
